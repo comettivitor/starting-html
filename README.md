@@ -1,2 +1,3 @@
-# starting html
- Learning and studying a little of HTML5
+# Starting HTML5
+
+Learning and studying a little of HTML5
